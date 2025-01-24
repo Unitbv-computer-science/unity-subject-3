@@ -8,4 +8,4 @@ La apăsarea unui bec, atât becul respectiv cât și vecinii lui, de pe orizont
 
 Scopul jocului este stingerea tuturor becurilor.
 
-Pentru rezolvarea subiectelor, se va deschide scena numită **Game**.
+Pentru rezolvarea subiectelor, se va deschide scena **Game** din folderul Scenes.
